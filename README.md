@@ -1,4 +1,4 @@
-# CIS-5560-Big-Data-Project.
+# CIS-5560-Big-Data-Project
 Topic Name - Home Mortgage Prediction Model using Azure ML and Spark Databricks
 
 # What is HMDA data?
