@@ -15,7 +15,7 @@ Each year thousands of banks and other financial institutions report data about 
 - There are two links for the Azure ML Studio experiments.
 
 # Machine Learning Model in DataBricks
-- Algorithms used – Logistic Regression
-- There is one python Notebook.
+- Algorithms used – Logistic Regression and Decision Tree Classifier
+- There are two IPython Notebooks, one for each Alogrithm used to bulid the predictive model.
 
 
